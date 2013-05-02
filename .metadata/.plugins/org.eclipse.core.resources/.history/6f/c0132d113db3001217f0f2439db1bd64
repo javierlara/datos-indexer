@@ -1,0 +1,18 @@
+/*
+ * ParserTest.cpp
+ *
+ *  Created on: 02/05/2013
+ *      Author: javi
+ */
+
+#include "ParserTest.h"
+
+ParserTest::ParserTest() {
+	// TODO Auto-generated constructor stub
+
+}
+
+ParserTest::~ParserTest() {
+	// TODO Auto-generated destructor stub
+}
+

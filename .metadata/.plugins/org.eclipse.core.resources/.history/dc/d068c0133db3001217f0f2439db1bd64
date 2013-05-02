@@ -1,0 +1,17 @@
+/*
+ * ParserTest.h
+ *
+ *  Created on: 02/05/2013
+ *      Author: javi
+ */
+
+#ifndef PARSERTEST_H_
+#define PARSERTEST_H_
+
+class ParserTest {
+public:
+	ParserTest();
+	virtual ~ParserTest();
+};
+
+#endif /* PARSERTEST_H_ */
