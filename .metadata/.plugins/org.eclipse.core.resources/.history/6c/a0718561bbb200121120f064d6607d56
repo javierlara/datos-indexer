@@ -46,8 +46,7 @@ void DirectoryReader::recorrerDirectorio(string dir) {
 		}
 
 		fin.open(filepath.c_str());
-		//cout << "Procesando " + filepath << endl;
-		cout << "HOLAAAAA" << endl;
+		cout << "Procesando " + filepath << endl;
 		//		readFile(filepath);
 		fin.close();
 	}

@@ -1,0 +1,24 @@
+
+**** Build of configuration Debug for project TpDatos ****
+
+make all 
+Building file: ../src/DirectoryReader.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/DirectoryReader.d" -MT"src/DirectoryReader.d" -o "src/DirectoryReader.o" "../src/DirectoryReader.cpp"
+Finished building: ../src/DirectoryReader.cpp
+ 
+Building file: ../src/TpDatos.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/TpDatos.d" -MT"src/TpDatos.d" -o "src/TpDatos.o" "../src/TpDatos.cpp"
+../src/TpDatos.cpp: En la función ‘int main(int, char**)’:
+../src/TpDatos.cpp:30:9: aviso: se define la variable ‘r’ pero no se usa [-Wunused-but-set-variable]
+../src/TpDatos.cpp:31:9: aviso: se define la variable ‘q’ pero no se usa [-Wunused-but-set-variable]
+Finished building: ../src/TpDatos.cpp
+ 
+Building target: TpDatos
+Invoking: GCC C++ Linker
+g++  -o "TpDatos"  ./src/DirectoryReader.o ./src/TpDatos.o   
+Finished building target: TpDatos
+ 
+
+**** Build Finished ****

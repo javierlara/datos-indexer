@@ -1,0 +1,13 @@
+In the 1960s, the dominant form of computing was on large mainframes—com-
+puters costing millions of dollars and stored in computer rooms with multiple
+operators overseeing their support. Typical applications included business data
+processing and large-scale scientific computing. The 1970s saw the birth of the
+minicomputer, a smaller-sized computer initially focused on applications in sci-
+entific laboratories, but rapidly branching out with the popularity of time-
+sharing—multiple users sharing a computer interactively through independent
+terminals. That decade also saw the emergence of supercomputers, which were
+high-performance computers for scientific computing. Although few in number,
+they were important historically because they pioneered innovations that later
+trickled down to less expensive computer classes. The 1980s saw the rise of the
+desktop computer based on microprocessors, in the form of both personal com-
+puters and workstations. The individually owned desktop computer replaced
