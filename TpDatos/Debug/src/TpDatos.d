@@ -1,3 +1,6 @@
-src/TpDatos.d: ../src/TpDatos.cpp ../src/DirectoryReader.h
+src/TpDatos.d: ../src/TpDatos.cpp ../src/Parser.h \
+ ../src/TerminoRegister.h
 
-../src/DirectoryReader.h:
+../src/Parser.h:
+
+../src/TerminoRegister.h:

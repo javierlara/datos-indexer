@@ -1,0 +1,18 @@
+/*
+ * TerminoRegister.cpp
+ *
+ *  Created on: 01/05/2013
+ *      Author: lara
+ */
+
+#include "TerminoRegister.h"
+
+TerminoRegister::TerminoRegister() {
+	// TODO Auto-generated constructor stub
+
+}
+
+TerminoRegister::~TerminoRegister() {
+	// TODO Auto-generated destructor stub
+}
+
